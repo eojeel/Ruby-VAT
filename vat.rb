@@ -1,3 +1,4 @@
+# Welcome the the Ruby Vat Calculator
 vatrate = 0.20
 print 'Enter Price (EX Vat): '
 s = gets
